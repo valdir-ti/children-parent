@@ -1,0 +1,14 @@
+.children {
+  background-color: azure;
+  height: 20vh;
+  width: 20vw;
+  color: blue;
+  border-radius: 20px;
+  padding-bottom: 20px;
+}
+
+.children > button {
+  width: 10vw;
+  color: blue;
+  font-weight: bold;
+}
